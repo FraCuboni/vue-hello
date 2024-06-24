@@ -12,8 +12,10 @@ createApp({
     data(){
         return{
             // scrivo hello vue!
-            message: 'hello vue!'
+            message: 'hello vue!',
             // aggiungo l'immagine:
+            imagePath: 'img/cool.jpg'
+
         }
     }
 // linko al container
